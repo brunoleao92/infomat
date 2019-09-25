@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1569279092 source:c:\users\alumno\desktop\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1569285938 source:c:\users\alumno\desktop\abmalumnoautoincremental\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1569286819 source:c:\users\alumno\desktop\abmalumnocarreras\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1569286799 c:\users\alumno\desktop\abmalumnocarreras\alumno.h
+	"carrera.h"
+
+1569286679 c:\users\alumno\desktop\abmalumnocarreras\carrera.h
+
+1569286850 source:c:\users\alumno\desktop\abmalumnocarreras\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"carrera.h"
+
+1569286874 source:c:\users\alumno\desktop\abmalumnocarreras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"carrera.h"
+	"alumno.h"
+
+1569415126 source:c:\users\alumno\desktop\abmalumnocarreraslibrary\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1569415126 c:\users\alumno\desktop\abmalumnocarreraslibrary\alumno.h
+	"carrera.h"
+
+1569415126 c:\users\alumno\desktop\abmalumnocarreraslibrary\carrera.h
+
+1569415126 source:c:\users\alumno\desktop\abmalumnocarreraslibrary\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"carrera.h"
+
+1569415126 source:c:\users\alumno\desktop\abmalumnocarreraslibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"carrera.h"
+	"alumno.h"
+

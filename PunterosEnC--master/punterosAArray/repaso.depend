@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1527036425 source:d:\repaso\cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527036413 d:\repaso\cliente.h
+
+1527036574 source:d:\repaso\controlador.c
+	"controlador.h"
+	"cliente.h"
+
+1527035394 source:d:\repaso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"controlador.h"
+
+1527035489 d:\repaso\controlador.h
+	"cliente.h"
+
